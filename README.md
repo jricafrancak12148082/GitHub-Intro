@@ -1,2 +1,4 @@
 # GitHub-Intro
-A simple Python Hello World program for practicing Git and GitHub basics.
+
+This project demonstrates basic Git and GitHub collaboration workflows.
+
